@@ -1,3 +1,5 @@
+// JS uses prototypes to construct inheritance.
+
 function Book(title, author, ISBN, numCopies) {
   this.title = title;
   this.author = author;
